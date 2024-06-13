@@ -1,0 +1,16 @@
+body {
+    font-family: 'Arial', sans-serif;
+}
+
+header {
+    background: url('imagens/lamborguini-aventador.jpg') no-repeat center center;
+    background-size: cover;
+    color: white;
+}
+
+.btn-primary {
+    background-color: red;
+}
+.btn-primary:hover {
+    background-color: rgb(145, 10, 10);
+}
